@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1020799923113",
+    "firebase_url": "https://virago-36826.firebaseio.com",
+    "project_id": "virago-36826",
+    "storage_bucket": "virago-36826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020799923113:android:095a924d84b49e58d38ab8",
+        "android_client_info": {
+          "package_name": "com.example.virago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020799923113-gm9mibmran2aj9ltop2v45150vh8a53g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virago",
+            "certificate_hash": "dde8a0dd620228724a0903970d94ecace5f29d7d"
+          }
+        },
+        {
+          "client_id": "1020799923113-hqc699iet4ogdrh77aq0u4gde45vrgog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virago",
+            "certificate_hash": "4675926db7dcf0767a83cee85400fbd9bb944cc7"
+          }
+        },
+        {
+          "client_id": "1020799923113-0enrsorgoc44sa1eebfg23clchhvs9ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlFq1KAWXzmZRd0ZAGdssrVP6331aq6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020799923113-0enrsorgoc44sa1eebfg23clchhvs9ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
